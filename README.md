@@ -25,4 +25,4 @@ In order for this to be provisioned on your Google Cloud instance, you need to m
 
 You'll also need to activate a couple of APIs in Google Cloud, the first deployment will probably fail and point you into the right direction. Alternatively, you could deploy the first version manually.
 
-Hello
+Hello world
