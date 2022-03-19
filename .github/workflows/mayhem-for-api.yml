@@ -27,14 +27,16 @@ name: "Mayhem for API"
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ master ]
+    branches: [master]
 
 jobs:
   mayhem-for-api:
     name: Mayhem for API
+    build:
+      environment: mayhem
     # Mayhem for API runs on linux, mac and windows
     runs-on: ubuntu-latest
     permissions:
