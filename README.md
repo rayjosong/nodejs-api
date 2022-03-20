@@ -2,7 +2,7 @@
 
 ## CI/CD pipeline implemented using GitHub Actions:
 
-- Upon push, send notification to Telegram Notify by Github user appleboy (appleboy/telegram-action@master)
+- Upon push, send notification to Telegram Notify by Github user appleboy (![appleboy/telegram-action@master](https://github.com/marketplace/actions/telegram-notify))
   Using Mayhem to test REST APIs using Postman Collections
 - create docker container (will try to implement after Show And Tell is over)
 - push to gcr.io container registry (will try to implement after Show And Tell is over)
