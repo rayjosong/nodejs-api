@@ -12,7 +12,7 @@
 ![telegram screenshots](./public/telegram-ss.png)
 ![github action telegram screenshots](./public/github-actions-telegram-ss.png)
 
-## Thought Process
+## My Thought Process
 
 - Trigger an automated workflow for Developers to fulfill Ops side of things, allowing Devs to focus on development
 - Telegram Notifications upon pushl; Important to receive readily accessible notifications as a feedback loop confirmation that repo is pushed onto Github
