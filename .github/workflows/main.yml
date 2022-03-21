@@ -10,7 +10,7 @@ jobs:
   setup-build-publish-deploy:
     name: Setup, Build, Publish, and Deploy
     runs-on: ubuntu-latest
-    # environment: Google Cloud Platform
+    environment: Google Cloud Platform
     steps:
       - name: Checkout
         uses: actions/checkout@master
