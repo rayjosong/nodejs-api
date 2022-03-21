@@ -26,6 +26,8 @@
 - Learnt that most Github Actions workflow involved environment variables so actually setting them up would be relatively easy once I figured out how to link Github env variables with Github Actions workflow defined within the .yml files
 - Error messages for Github Actions are not specific, leading to haphazard troubleshooting process
 
+![error message](./public/main-error.png)
+
 # Currency Exchange API – NodeJS
 
 docker run -d -p 8080:8080 u1ih/nodejs-api
