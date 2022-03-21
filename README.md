@@ -24,6 +24,7 @@
 - Too ambitious and tried implementing too many workflows within pipelines. A more focused approach would have produced better results.
 - Not very familiar with YAML so found it difficult to include environment variables within yml files to call env secrets stored in Github
 - Learnt that most Github Actions workflow involved environment variables so actually setting them up would be relatively easy once I figured out how to link Github env variables with Github Actions workflow defined within the .yml files
+- Error messages for Github Actions are not specific, leading to haphazard troubleshooting process
 
 # Currency Exchange API – NodeJS
 
